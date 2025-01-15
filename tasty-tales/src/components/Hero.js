@@ -16,8 +16,7 @@ function Hero() {
 
           <div className="col">
             <div className="image-container position-relative w-100 h-100 ">
-              {/* <img src="/pictures/food3.jpg" alt="Healthy Food" className="img-fluid w-100 h-100"
-                        style="max-width: 1200px;"> */}
+              <img src="/pictures/food3.jpg" alt="Healthy Food" className="img-fluid w-100 h-100"/>
             </div>
           </div>
         </div>
